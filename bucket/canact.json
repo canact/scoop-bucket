@@ -1,12 +1,12 @@
 {
-    "version": "0.10.2",
+    "version": "0.11.0",
     "description": "Probe an LLM and return host policy: max tools, edit format, XML fallback, JSON repair",
     "homepage": "https://github.com/canact/canact",
     "license": "MIT OR Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/canact/canact/releases/download/v0.10.2/canact-x86_64-pc-windows-msvc.zip",
-            "hash": "582919759617331bdcdb55f5aab87b951c5a9784a8729ccfe9782d3f8e3d516e"
+            "url": "https://github.com/canact/canact/releases/download/v0.11.0/canact-x86_64-pc-windows-msvc.zip",
+            "hash": "9caf684c483f31f97f4cb87f9c1beed03bb4e6eed3433f978802ad68d9d52ebd"
         }
     },
     "bin": "canact.exe",
